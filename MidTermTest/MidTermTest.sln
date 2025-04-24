@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem1", "Problem1\Problem1.vcxproj", "{3C041599-7231-4D17-B254-BEF6D669B95C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem2", "Problem2\Problem2.vcxproj", "{3BD09E5C-AFFE-41BD-A2B5-DE2F5B5F0BA2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,14 @@ Global
 		{3C041599-7231-4D17-B254-BEF6D669B95C}.Release|x64.Build.0 = Release|x64
 		{3C041599-7231-4D17-B254-BEF6D669B95C}.Release|x86.ActiveCfg = Release|Win32
 		{3C041599-7231-4D17-B254-BEF6D669B95C}.Release|x86.Build.0 = Release|Win32
+		{3BD09E5C-AFFE-41BD-A2B5-DE2F5B5F0BA2}.Debug|x64.ActiveCfg = Debug|x64
+		{3BD09E5C-AFFE-41BD-A2B5-DE2F5B5F0BA2}.Debug|x64.Build.0 = Debug|x64
+		{3BD09E5C-AFFE-41BD-A2B5-DE2F5B5F0BA2}.Debug|x86.ActiveCfg = Debug|Win32
+		{3BD09E5C-AFFE-41BD-A2B5-DE2F5B5F0BA2}.Debug|x86.Build.0 = Debug|Win32
+		{3BD09E5C-AFFE-41BD-A2B5-DE2F5B5F0BA2}.Release|x64.ActiveCfg = Release|x64
+		{3BD09E5C-AFFE-41BD-A2B5-DE2F5B5F0BA2}.Release|x64.Build.0 = Release|x64
+		{3BD09E5C-AFFE-41BD-A2B5-DE2F5B5F0BA2}.Release|x86.ActiveCfg = Release|Win32
+		{3BD09E5C-AFFE-41BD-A2B5-DE2F5B5F0BA2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
